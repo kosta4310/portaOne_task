@@ -7,3 +7,5 @@
 - назва повинна бути 10m.txt
 - числа по одному на рядку
 - вихід за кордони максимального та мінімального значеннь для цілих чисел не перевіряв
+- ![screenshot](https://github.com/kosta4310/portaOne_task/screenshots/screenshot.jpg)
+- <img src="https://github.com/kosta4310/portaOne_task/tree/screenshots/screenshot.jpg" height="32"/>
